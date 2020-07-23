@@ -1,5 +1,6 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { Link } from 'react-scroll';
+import { act } from 'react-dom/test-utils';
 
 const Navbar = () => {
   return (

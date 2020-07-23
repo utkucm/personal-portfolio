@@ -102,7 +102,7 @@ const Projects = () => {
               <a
                 className='project-link'
                 target='_blank'
-                href='https://rethja-clothing.herokuapp.com/'
+                href='https://utkucam.netlify.app/'
                 rel='noopener noreferrer'
               >
                 Live
@@ -110,7 +110,7 @@ const Projects = () => {
               <a
                 className='project-link'
                 target='_blank'
-                href='https://github.com/utkucm/rethja-clothes'
+                href='https://github.com/utkucm/personal-portfolio'
                 rel='noopener noreferrer'
               >
                 Source Code
@@ -118,7 +118,7 @@ const Projects = () => {
             </div>
           </div>
 
-          <div className='col-lg-7 project project1 wow fadeInUp'></div>
+          <div className='col-lg-7 project project3 wow fadeInUp'></div>
         </div>
       </div>
     </div>
