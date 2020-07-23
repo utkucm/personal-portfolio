@@ -19,6 +19,11 @@ const About = () => {
                 about me.
               </h3>
               <br />
+              <span>
+                <a className='resume' href='resume.pdf' download>
+                  Download resume
+                </a>
+              </span>
 
               <p className='wow fadeInUp'>
                 Living with passion is what I use there. “Always do what you love” is the right path
